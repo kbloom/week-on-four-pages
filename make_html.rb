@@ -4,6 +4,7 @@ puts <<ENDHEADER
   <head>
     <style>
     @page { margin: 0px; }
+    body { margin: 0px; }
     .newpage { break-before:always; }
     @media print {
       #firstpage {
