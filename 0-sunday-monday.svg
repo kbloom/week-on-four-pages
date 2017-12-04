@@ -15295,7 +15295,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="234.65882"
+     inkscape:cx="104.30168"
      inkscape:cy="647.06284"
      inkscape:document-units="mm"
      inkscape:current-layer="layer5"
@@ -15346,7 +15346,8 @@
          sodipodi:role="line"
          id="tspan2742"
          x="67.292633"
-         y="19.991436">%VAR_dayname_2%</tspan></text>
+         y="19.991436"
+         style="-inkscape-font-specification:'URW Bookman L, Normal';font-family:'URW Bookman L';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:4.93888889px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal">%VAR_dayname_2%</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot51090"
