@@ -15,15 +15,10 @@
    viewBox="0 0 139.7 215.90001"
    version="1.1"
    id="svg50241"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="2-thursday-friday.svg">
   <defs
      id="defs50235">
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern57914"
-       id="pattern58552"
-       patternTransform="matrix(0.26458333,0,0,0.25268899,171.77286,77.301165)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern50195"
@@ -10235,11 +10230,6 @@
          r="0.94488192" />
     </pattern>
     <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern57914-1"
-       id="pattern58552-0"
-       patternTransform="matrix(0.26458333,0,0,0.25268899,231.07649,77.301152)" />
-    <pattern
        patternUnits="userSpaceOnUse"
        width="323.14961"
        height="644.40948"
@@ -15295,15 +15285,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="240.94832"
-     inkscape:cy="634.67335"
+     inkscape:cx="148.7719"
+     inkscape:cy="170.00318"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      inkscape:lockguides="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1007"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -15441,8 +15431,7 @@
      inkscape:label="boxes"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-81.099983)"
-     sodipodi:insensitive="true">
+     transform="translate(0,-81.099983)">
     <rect
        style="display:inline;fill:url(#pattern50821);fill-opacity:1;stroke:#000000;stroke-width:0.69636142;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3751"
@@ -15458,18 +15447,11 @@
        x="65.714996"
        y="101.91632" />
     <rect
-       style="display:inline;fill:url(#pattern58552);fill-opacity:1;stroke:#000000;stroke-width:0.56999993;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:url(#pattern57914);fill-opacity:1.0;stroke:#000000;stroke-width:0.80199248;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4558"
-       width="59.43"
-       height="31.228985"
-       x="6.2849998"
-       y="250.21996" />
-    <rect
-       style="display:inline;fill:url(#pattern58552-0);fill-opacity:1;stroke:#000000;stroke-width:0.56999993;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4558-0"
-       width="59.43"
-       height="31.228985"
-       x="65.588631"
-       y="250.21994" />
+       width="118.53184"
+       height="30.996992"
+       x="6.4009962"
+       y="250.33595" />
   </g>
 </svg>

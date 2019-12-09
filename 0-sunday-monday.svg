@@ -15,15 +15,15 @@
    viewBox="0 0 139.7 215.90001"
    version="1.1"
    id="svg50241"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="0-sunday-monday.svg">
   <defs
      id="defs50235">
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern57914"
-       id="pattern58552"
-       patternTransform="matrix(0.26458333,0,0,0.25268899,171.77286,77.301165)" />
+       id="pattern7156"
+       patternTransform="matrix(0.26416358,0,0,0.2645887,171.51019,67.687685)" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern50195"
@@ -10235,11 +10235,6 @@
          r="0.94488192" />
     </pattern>
     <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern57914-1"
-       id="pattern58552-0"
-       patternTransform="matrix(0.26458333,0,0,0.25268899,231.07649,77.301152)" />
-    <pattern
        patternUnits="userSpaceOnUse"
        width="323.14961"
        height="644.40948"
@@ -15295,15 +15290,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="104.30168"
-     inkscape:cy="647.06284"
+     inkscape:cx="255.4258"
+     inkscape:cy="332.77713"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      inkscape:lockguides="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1007"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -15325,7 +15320,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="words">
+     inkscape:label="words"
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.93888855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -15347,7 +15343,7 @@
          id="tspan2742"
          x="67.292633"
          y="19.991436"
-         style="-inkscape-font-specification:'URW Bookman L, Normal';font-family:'URW Bookman L';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:4.93888889px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal">%VAR_dayname_2%</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:'URW Bookman L';-inkscape-font-specification:'URW Bookman L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">%VAR_dayname_2%</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot51090"
@@ -15389,12 +15385,12 @@
        id="text20567"><tspan
          sodipodi:role="line"
          id="tspan20565"
-         x="65.565437"
+         x="65.56543"
          y="19.213888"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333333px;font-family:Shofar;-inkscape-font-specification:'Shofar, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr;text-anchor:end;stroke-width:0.26458332">%VAR_hebrew_1%</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:Shofar;-inkscape-font-specification:'Shofar, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">%VAR_hebrew_1%</tspan><tspan
          sodipodi:role="line"
          x="65.56543"
-         y="24.611826"
+         y="24.505554"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:'Noto Sans Hebrew';-inkscape-font-specification:'Noto Sans Hebrew, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332"
          id="tspan2740" /></text>
     <text
@@ -15407,14 +15403,13 @@
          id="tspan20565-9"
          x="125.11715"
          y="19.046072"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333333px;font-family:Shofar;-inkscape-font-specification:'Shofar, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr;text-anchor:end;stroke-width:0.26458332">%VAR_hebrew_2%</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:Shofar;-inkscape-font-specification:'Shofar, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332">%VAR_hebrew_2%</tspan></text>
   </g>
   <g
      inkscape:label="boxes"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-81.099983)"
-     sodipodi:insensitive="true">
+     transform="translate(0,-81.099983)">
     <rect
        style="display:inline;fill:url(#pattern50821);fill-opacity:1;stroke:#000000;stroke-width:0.69636142;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3751"
@@ -15430,19 +15425,12 @@
        x="65.714996"
        y="101.91632" />
     <rect
-       style="display:inline;fill:url(#pattern58552);fill-opacity:1;stroke:#000000;stroke-width:0.56999993;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:url(#pattern7156);fill-opacity:1;stroke:#000000;stroke-width:0.80202055;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4558"
-       width="59.43"
-       height="31.228985"
-       x="6.2849998"
-       y="250.21996" />
-    <rect
-       style="display:inline;fill:url(#pattern58552-0);fill-opacity:1;stroke:#000000;stroke-width:0.56999993;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4558-0"
-       width="59.43"
-       height="31.228985"
-       x="65.588631"
-       y="250.21994" />
+       width="118.54024"
+       height="30.996964"
+       x="6.40101"
+       y="250.33595" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
