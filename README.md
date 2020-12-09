@@ -26,4 +26,4 @@ and cut down the middle.
 For the monthly calendar, we like to use "Month on 2 pages" from Scattered
 Squirrel as dividers. My wife explicitly requests that these *not* be printed
 double-sided, but the 5.5 x 8.5 version should be printed 2-up or booklet-printed 
-and cut down the middle.
+and cut down the middle. (Use `make_book.sh` for this.)
