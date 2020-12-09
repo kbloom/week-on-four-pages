@@ -17,9 +17,13 @@ the output carefully.  Make sure that:
  * There are no unwanted artifacts
  * The page size is correct
  * The pages are in the right order
+ 
+These should be booket printed (`make_planner.rb` generates a PDF for this),
+and cut down the middle.
 
 # Monthly pages
 
 For the monthly calendar, we like to use "Month on 2 pages" from Scattered
 Squirrel as dividers. My wife explicitly requests that these *not* be printed
-double-sided.
+double-sided, but the 5.5 x 8.5 version should be printed 2-up or booklet-printed 
+and cut down the middle.
